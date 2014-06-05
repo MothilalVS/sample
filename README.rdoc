@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is 2nd branch from the master
+=======
+no i'm branch1
+>>>>>>> b1
